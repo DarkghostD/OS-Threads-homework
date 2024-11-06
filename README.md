@@ -16,3 +16,4 @@ Harán una segunda versión en la cual el número de hilos es variable. Al momen
 
   - *Ivan David Ausecha Salamanca 2328223-3743*
   - *Sergio Andrés Rodríguez Trujillo 2372227-3743*
+  - *Jose Armando Martinez Hernandez 2325365-3743*
